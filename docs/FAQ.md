@@ -245,3 +245,4 @@ class App extends Component {
 
 export default App;
 ```
+## How do I move the cursor to the end of the text? How do i have the editor get the focus by method?
